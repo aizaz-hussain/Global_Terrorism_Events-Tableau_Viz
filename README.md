@@ -1,5 +1,7 @@
 # Global Terrorism Events - Tableau Visualization
 ## Visual Story 1
+Geospatial data which shows acts of terrorism in different countries over the span of 13 years, from 1992 to 2015.
+
 ![Story 1 - 1](https://user-images.githubusercontent.com/56048071/129190492-fdbef8d1-b847-4101-97f0-717f592c1bb5.PNG)
 ![Story 1 - 2](https://user-images.githubusercontent.com/56048071/129190499-db49a526-3746-460c-a45b-f48f07d61017.PNG)
 ![Story 1 - 3](https://user-images.githubusercontent.com/56048071/129190502-9b6fc226-b044-481f-89f9-278e15fbee96.PNG)
