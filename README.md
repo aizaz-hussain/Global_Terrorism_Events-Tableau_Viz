@@ -3,44 +3,44 @@
 ## Story Board 1 - About Data
 
 Geospatial data which shows acts of terrorism in different countries over the span of 13 years, from 1992 to 2015.
-![Story 1 - 1](https://user-images.githubusercontent.com/56048071/129190492-fdbef8d1-b847-4101-97f0-717f592c1bb5.PNG)
+![Story 1 - 1](https://user-images.githubusercontent.com/56048071/129415515-2fb36484-2557-4ad1-9245-1dfe8a29c7c4.PNG)
 
 The graph shows the trend of total no of attacks around the globe each year.
-![Story 1 - 2](https://user-images.githubusercontent.com/56048071/129190499-db49a526-3746-460c-a45b-f48f07d61017.PNG)
+![Story 1 - 2](https://user-images.githubusercontent.com/56048071/129415528-426acc64-547b-4511-80ea-86edd336e7ee.PNG)
 
 The following bar graphs shows the regions with maximum attacks.
-![Story 1 - 3](https://user-images.githubusercontent.com/56048071/129190502-9b6fc226-b044-481f-89f9-278e15fbee96.PNG)
+![Story 1 - 3](https://user-images.githubusercontent.com/56048071/129415542-2e67100c-c620-4324-a77c-e8e5f6db9b6d.PNG)
 
 Country wise distribution of terrorist attacks using box and whiskers plot.
-![Story 1 - 4](https://user-images.githubusercontent.com/56048071/129190503-ee3f277e-16b7-45c2-8dfd-4e918bae9a93.PNG)
+![Story 1 - 4](https://user-images.githubusercontent.com/56048071/129415562-061cb4d0-6daf-485b-b1cf-86e5764b72cc.PNG)
 
 Regional distribution of terrorist attacks using box and whiskers plot.
-![Story 1 - 5](https://user-images.githubusercontent.com/56048071/129190506-3605bd0d-581d-417b-9164-3b36b908f710.PNG)
+![Story 1 - 5](https://user-images.githubusercontent.com/56048071/129415575-432c7227-c32e-48df-bb5f-77ab0a2d7b4d.PNG)
+
 
 ## Story Board 2 - Time series analytics of the data
 
 Different visualizations show trend about the number of terrorist attacks in a specific country over time.
-![Story 2 - 1](https://user-images.githubusercontent.com/56048071/129190766-f42a1834-3273-4699-9db9-35f1d1931b03.PNG)
-![Story 2 - 1, 2](https://user-images.githubusercontent.com/56048071/129190769-a93cac76-5b60-499b-8777-4a8b826e430c.PNG)
+![Story 2 - 1](https://user-images.githubusercontent.com/56048071/129416316-7707a7e9-fe30-41c6-b86e-fe1a7c60ec45.PNG)
+![Story 2 - 1, 2](https://user-images.githubusercontent.com/56048071/129416320-700cea74-ce0c-4e0d-9095-3a81e6292d3c.PNG)
 
 The following visualization drill down information about the cities and states of a selected country.
-![Story 2 - 2, 1](https://user-images.githubusercontent.com/56048071/129190774-67b7c70d-2f15-40eb-958b-f69d1820197c.PNG)
-![Story 2 - 3, 1](https://user-images.githubusercontent.com/56048071/129190776-4e6c3c43-d246-4f77-899b-282aba531159.PNG)
-![Story 2 - 3, 2](https://user-images.githubusercontent.com/56048071/129190779-3b663d63-c528-4059-bc39-d371fc98eea5.PNG)
+![Story 2 - 2, 1](https://user-images.githubusercontent.com/56048071/129416350-a1b756bb-809a-464c-85b2-692c836cc4eb.PNG)
+![Story 2 - 3, 1](https://user-images.githubusercontent.com/56048071/129416367-0e8c5d52-21d4-4830-bfdd-d56881de7e78.PNG)
+![Story 2 - 3, 2](https://user-images.githubusercontent.com/56048071/129416376-9b24a735-7629-489d-b2cf-e207028dc241.PNG)
 
-<!-- [Story 2 - 2, 2](https://user-images.githubusercontent.com/56048071/129190775-81343728-bedf-41ba-80fa-fd2b835e90d6.PNG) -->
 
 ## Visual Story 3 - In depth information extraction from the data
 
 The graph shows the nature of the terrorists attacks.
-![Story 3 - 1](https://user-images.githubusercontent.com/56048071/129190824-8aac70f3-1a3b-4f07-b18a-ee709c22ac87.PNG)
+![Story 3 - 1](https://user-images.githubusercontent.com/56048071/129416728-383bac97-8f63-467d-a9d6-4840bb0c370c.PNG)
 
 The visualization shows the most activites carried out by the terrorists groups.
-![Story 3 - 2, 1](https://user-images.githubusercontent.com/56048071/129190829-2fd5115a-692a-4efe-8eb0-7e6013240762.PNG)
-![Story 3 - 2, 2](https://user-images.githubusercontent.com/56048071/129190834-90417221-0b44-4f2e-968f-47a146ca0d8f.PNG)
+![Story 3 - 2, 1](https://user-images.githubusercontent.com/56048071/129416783-c7d438cc-0edc-4a03-af83-805ae0aa0d1c.PNG)
+![Story 3 - 2, 2](https://user-images.githubusercontent.com/56048071/129416788-2156dc79-cd33-4107-8594-0748a88e2ca7.PNG)
 
 The visualization shows the most affected communities globally.
-![Story 3 - 3](https://user-images.githubusercontent.com/56048071/129190842-e9ed80dd-4f6f-49b2-a7e8-88e5e45dec9b.PNG)
+![Story 3 - 3](https://user-images.githubusercontent.com/56048071/129416814-b48c90a5-b199-4660-afcf-0abfb460cb64.PNG)
 
 The frequency of weapons used in the terrorist attacks. 
-![Story 3 - 4](https://user-images.githubusercontent.com/56048071/129190850-28549086-3eb5-4ee9-9c71-1c1600ff977f.PNG)
+![Story 3 - 4](https://user-images.githubusercontent.com/56048071/129416825-188f4b24-d536-4f74-89bd-35206c286c98.PNG)
